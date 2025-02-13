@@ -24,7 +24,15 @@ const mploier = {
     funFact: "Did you know that the first computer virus was created in 1983 by a 15-year-old high school student named Richard Skrenta? It was called 'Elk Cloner' and spread via floppy disks!"
 };
 ```
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
+
+```txt
+Java         10 mins         ████████████▒░░░░░░░░░░░░   49.29 %
+Vue.js       8 mins          █████████▓░░░░░░░░░░░░░░░   38.28 %
+Other        2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
 
 <!--END_SECTION:waka-->
 
