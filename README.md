@@ -27,7 +27,7 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   3 hrs 58 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
