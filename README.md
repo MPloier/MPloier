@@ -27,7 +27,7 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-Java   8 hrs 46 mins   █████████████████████████   100.00 %
+Java   5 hrs 24 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
