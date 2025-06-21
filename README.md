@@ -27,10 +27,7 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-Java   23 mins         █████████████████████████   99.85 %
-SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
