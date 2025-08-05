@@ -27,11 +27,7 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP Request      1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   31.00 %
-Java              57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-Groovy            56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-Gradle            36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-XML               12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Groovy   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
