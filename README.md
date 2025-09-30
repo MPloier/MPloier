@@ -27,8 +27,8 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP Request   57 mins         ████████████████████████░   96.32 %
-Other          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+HTTP Request   1 hr 13 mins    ████████████████████████▒   97.10 %
+Other          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
