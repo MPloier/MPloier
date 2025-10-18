@@ -27,7 +27,8 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTTP Request   3 hrs 2 mins    ██████████████████████░░░   88.08 %
+Other          24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
 ```
 
 <!--END_SECTION:waka-->
