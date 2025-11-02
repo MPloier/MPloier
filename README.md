@@ -27,11 +27,7 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-Gradle                 11 mins         ████████████████████▓░░░░   82.47 %
-Groovy                 2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Java                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-XML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
