@@ -27,7 +27,11 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                   1 hr 49 mins          ███████████████░░░░░░░░░░   59.75 %
+PHP                    40 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+Twig                   16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Java Properties        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Groovy                 2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
