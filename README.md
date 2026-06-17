@@ -27,11 +27,8 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   1 hr 49 mins          ███████████████░░░░░░░░░░   59.75 %
-PHP                    40 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Twig                   16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Java Properties        4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Groovy                 2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+PowerShell    1 hr 5 mins           █████████████████████████   99.62 %
+IDEA_MODULE   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
