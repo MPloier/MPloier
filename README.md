@@ -27,8 +27,11 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell    1 hr 5 mins           █████████████████████████   99.62 %
-IDEA_MODULE   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+PHP           1 hr 25 mins          █████████████▓░░░░░░░░░░░   55.01 %
+PowerShell    1 hr 5 mins           ██████████▓░░░░░░░░░░░░░░   42.12 %
+JSON          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+YAML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+IDEA_MODULE   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
