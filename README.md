@@ -27,7 +27,9 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP         0 secs                █████████████████░░░░░░░░   67.83 %
+.env file   0 secs                ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+Bash        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
