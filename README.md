@@ -40,4 +40,3 @@ Bash        0 secs                ▓░░░░░░░░░░░░░░�
 <a href="https://github.com/mploier">
 <img width=450 height=170 align="center" alt="mploier" src="https://github-readme-stats.vercel.app/api?username=mploier&include_all_commits=true&count_private=true&theme=midnight-blue&show_icons=true" />
 </a> 
-
