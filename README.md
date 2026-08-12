@@ -27,7 +27,7 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 19 mins         ███████████████▓░░░░░░░░░   62.37 %
+Java              2 hrs 19 mins         ███████████████▓░░░░░░░░░   62.38 %
 Java Properties   38 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
 Properties        15 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 Groovy            11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
