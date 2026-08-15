@@ -27,11 +27,11 @@ const mploier = {
 <!--START_SECTION:waka-->
 
 ```txt
-Java              3 hrs 59 mins         █████████████▓░░░░░░░░░░░   54.73 %
-Java Properties   1 hr 21 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-Properties        39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-XML               37 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-TypeScript        12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Java              4 hrs 41 mins         ████████████▒░░░░░░░░░░░░   49.00 %
+Java Properties   1 hr 42 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+PHP               52 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Properties        39 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+XML               36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 ```
 
 <!--END_SECTION:waka-->
